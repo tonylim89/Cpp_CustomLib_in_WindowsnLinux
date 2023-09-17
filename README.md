@@ -1,4 +1,4 @@
-# Custom Library Creation and Usage with `g++` (MinGW)
+# Custom Library Creation and Usage with `g++` (MinGW) for C++ Codes
 
 This project demonstrates the creation and use of custom libraries in both Windows and Linux environments using `g++` from MinGW.
 
